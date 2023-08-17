@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Shiv Lahejatwala</h1>
 <h3 align="center">A passionate Frontend Developer from India 🇮🇳</h3>
 
+- 👨‍💻 All Information about me is available at [https://shivlahejat.netlify.app/](https://shivlahejat.netlify.app/)
+
 - 👨‍💻 All of my projects are available at [https://multicodegenius.com/what-we-do](https://multicodegenius.com/what-we-do)
 
 - 📝 I regularly write articles on [https://multicodegenius.com/blogs](https://multicodegenius.com/blogs)
