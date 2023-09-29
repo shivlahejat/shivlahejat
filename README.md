@@ -13,7 +13,7 @@
 
 - 💬 Ask me about **Css , React , Next.js**
 
-- 📫 How to reach me **shivlahejat.netlify.app**
+- 📫 How to reach me **shivlahejat123@gmail.com**
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1zbXAlvUXdlwJ5pXaxpX47Q5he8LU2VNj/view?usp=sharing](https://drive.google.com/file/d/1zbXAlvUXdlwJ5pXaxpX47Q5he8LU2VNj/view?usp=sharing)
 
