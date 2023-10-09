@@ -11,7 +11,7 @@
 
 - 📝 I regularly write articles on [https://multicodegenius.com/blogs](https://multicodegenius.com/blogs)
 
-- 💬 Ask me about **Css , React , Next.js**
+- 💬 Ask me about **HTML , CSS , JavaScript , React , Next.js**
 
 - 📫 How to reach me **shivlahejat123@gmail.com**
 
