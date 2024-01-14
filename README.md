@@ -15,7 +15,7 @@
 
 - 📫 How to reach me **shivlahejat123@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1hblUT87kltcMMqJ4quNvjQ-9lhSIAsvE/view)
+- 📄 Know about my experiences [https://drive.google.com/file/d/1LH0nD8I8NoDiw4F89yiFCEt-n0o2KtJx/view?usp=drivesdk)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
