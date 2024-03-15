@@ -7,11 +7,11 @@
 
 <p align="left"> <a href="https://twitter.com/shivlahejat" target="blank"><img src="https://img.shields.io/twitter/follow/shivlahejat?logo=twitter&style=for-the-badge" alt="shivlahejat" /></a> </p>
 
-- 👨‍💻 All of my projects are available at [shivlahejat.netlify.app](shivlahejat.netlify.app)
+- 👨‍💻 All of my projects are available at [shivlahejat.vercel.app](shivlahejat.vercel.app)
 
 - 📝 I regularly write articles on [https://multicodegenius.com/blogs](https://multicodegenius.com/blogs)
 
-- 💬 Ask me about **HTML , CSS , JavaScript , React , Next.js**
+- 💬 Ask me about **HTML , CSS , JavaScript , React , Next.js , Redux **
 
 - 📫 How to reach me **shivlahejat123@gmail.com**
 
