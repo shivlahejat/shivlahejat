@@ -32,7 +32,6 @@ const shiv = {
 - All projects live at **[shivlahejatwala.vercel.app](https://shivlahejatwala.vercel.app)**
 - I write articles on web dev at **[multicodegenius.com/blogs](https://multicodegenius.com/blogs)**
 - Ask me about **HTML · CSS · JavaScript · React · Next.js · TypeScript · GraphQL**
-- Resume: **[View Here](https://drive.google.com/file/d/1NoJsLZFjEPSImECSttM_Na_JWO8-jTl6/view?usp=sharing)**
 
 ---
 
@@ -123,7 +122,6 @@ const shiv = {
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/shivlahejat)
 [![Blog](https://img.shields.io/badge/Blog-FF5722?style=for-the-badge&logo=hashnode&logoColor=white)](https://multicodegenius.com/blogs)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:shivlahejat123@gmail.com)
-[![Resume](https://img.shields.io/badge/Resume-4CAF50?style=for-the-badge&logo=googledrive&logoColor=white)](https://drive.google.com/file/d/1NoJsLZFjEPSImECSttM_Na_JWO8-jTl6/view?usp=sharing)
 
 </div>
 
