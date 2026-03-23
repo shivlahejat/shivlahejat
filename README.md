@@ -25,7 +25,7 @@ const shiv = {
   portfolio: "https://shivlahejatwala.vercel.app",
   blog: "https://multicodegenius.com/blogs",
   contact: "shivlahejat123@gmail.com",
-  funFact: "I turn coffee into clean, scalable code ☕",
+  funFact: "I obsess over pixel-perfect UI and clean architecture equally",
 };
 ```
 
@@ -90,11 +90,15 @@ const shiv = {
 
 ---
 
-## Trophies
+## Contribution Snake
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=shivlahejat&theme=onedark&no-frame=true&no-bg=true&row=1&column=6" alt="GitHub Trophies" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/shivlahejat/shivlahejat/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/shivlahejat/shivlahejat/output/github-contribution-grid-snake.svg" />
+  <img alt="contribution snake animation" src="https://raw.githubusercontent.com/shivlahejat/shivlahejat/output/github-contribution-grid-snake.svg" />
+</picture>
 
 </div>
 
